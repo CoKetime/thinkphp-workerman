@@ -27,3 +27,4 @@ thinkphp5.1配置修改
     基本配置完成
     进入GatewayWorker目录下启动
     php start.php start
+![image](https://github.com/CoKetime/thinkphp-workerman/blob/master/1583488350(1).jpg)
