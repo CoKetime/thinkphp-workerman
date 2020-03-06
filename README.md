@@ -8,7 +8,7 @@ thinkphp5.1与workerman 小程序开发聊天室
 
 thinkphp5.1配置修改
 ======
-1:composer安装[GatewayWorker](http://workerman.net/gatewaydoc/)
+1:下载安装[GatewayWorker](http://workerman.net/gatewaydoc/)
 =
 2：安装[GatewayClient] <br>
 ==
