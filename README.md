@@ -22,7 +22,7 @@ thinkphp5.1配置修改
   	'ACCESSKEY' => '', //存储ACCESSKEY<br>
     'SECRETKEY' => '', //存储SECRETKEY<br>
     'BUCKET' => '', //存储空间名<br>
-    'DOMAIN' => 'http://yy.9999.cn/',//存储空间域名<br>
+    'DOMAIN' => '',//存储空间域名<br>
     
     基本配置完成
     进入GatewayWorker目录下启动
