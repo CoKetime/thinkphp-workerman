@@ -3,8 +3,8 @@ thinkphp5.1与workerman 小程序开发聊天室
 
 小程序配置修改
 ===
-1修改utils/http.js 服务器请求地址
-2修改pages/chat/index.js 定位至方法webSocket 修改workerman请求地址
+1修改utils/http.js 服务器请求地址<br>
+2修改pages/chat/index.js 定位至方法webSocket 修改workerman请求地址<br>
 
 thinkphp5.1配置修改
 ======
